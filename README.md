@@ -55,7 +55,7 @@ This project automates the syncing of chargeback case data from multiple users t
 
 👨‍💻 Your Name  
 📧 your.email@example.com  
-🔗 [Your LinkedIn or GitHub Profile](https://github.com/your-username)
+🔗 [linkedin.com/in/Israr-Ahmad341](https://github.com/israrahmad341)
 
 ---
 
