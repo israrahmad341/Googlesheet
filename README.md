@@ -53,8 +53,8 @@ This project automates the syncing of chargeback case data from multiple users t
 
 ## 📢 Author
 
-👨‍💻 Your Name  
-📧 your.email@example.com  
+👨‍💻 Israr Ahmad
+📧 ahmadisrar341@gmail.com  
 🔗 [linkedin.com/in/Israr-Ahmad341](https://github.com/israrahmad341)
 
 ---
